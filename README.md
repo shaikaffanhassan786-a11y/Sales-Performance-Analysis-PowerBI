@@ -81,6 +81,12 @@ Optimize discount strategies
 Make data-driven decisions
 
 This project demonstrates my ability to work with Power BI, data modeling, DAX, and business analytics.
+
+# ## 📊 Dashboard Preview
+![Dashboard](Screenshot 2026-02-01 000159.png)
+
+## 📊 Dashboard Insights
+![More Views](Screenshot 2026-02-01 000211.png)
 # Author
 
 Affan Hassan
