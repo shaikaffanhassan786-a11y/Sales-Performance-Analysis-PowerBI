@@ -83,10 +83,12 @@ Make data-driven decisions
 This project demonstrates my ability to work with Power BI, data modeling, DAX, and business analytics.
 
 # ## 📊 Dashboard Preview
-![Dashboard](Screenshot 2026-02-01 000159.png)
+<img width="956" height="542" alt="Screenshot 2026-02-01 000159" src="https://github.com/user-attachments/assets/c2871f4e-e0c1-4cd0-b0c0-832483c86d6f" />
+
 
 ## 📊 Dashboard Insights
-![More Views](Screenshot 2026-02-01 000211.png)
+<img width="942" height="528" alt="Screenshot 2026-02-01 000211" src="https://github.com/user-attachments/assets/c984b112-da99-4934-b018-298b3ff730a3" />
+
 # Author
 
 Affan Hassan
